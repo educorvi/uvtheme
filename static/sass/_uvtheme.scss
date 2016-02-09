@@ -1,6 +1,17 @@
 $color-primary: #004994;
 $color-secondary: #0095db;
+$heading-bghw:#555;
+$text-bghw:#000;
 
-header.global {background:#fff}
+header.global {background-color:#fff}
 
 .courses-container .courses .course {border-bottom:3px solid $color-primary}
+
+.content-wrapper > .home > header {
+    background: #fff;
+    }
+
+body footer.global {
+    background-color: $color-primary;
+    color: $heading-bghw;
+    }
