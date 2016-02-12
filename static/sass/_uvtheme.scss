@@ -8,6 +8,9 @@ header.global {background-color:#fff}
 .content-wrapper > .home > header {
     background: #fff;
     }
+.content-wrapper > .home .courses .courses-listing-item .course {
+	border-bottom:4px solid @color-primary !important;
+}
 
 body footer.global {
     background-color: $color-primary;
