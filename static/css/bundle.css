@@ -10745,7 +10745,7 @@ body header.global.slim > nav .nav-global a,
   font-weight: 500;
   letter-spacing: inherit;
   padding: 0;
-  color: #f7f7f7;
+  color: #004994;
   text-transform: none;
   border: 0 none;
 }
@@ -10761,7 +10761,7 @@ body header.global.slim > nav .nav-global a:hover,
 .view-login header.global.slim > nav .nav-global a:hover,
 .view-register header.global.slim > nav .nav-global a:hover,
 .view-passwordreset header.global.slim > nav .nav-global a:hover {
-  color: #ffffff;
+  color: #0099CC;
 }
 body header.global > nav .nav-global a:focus,
 .view-login header.global > nav .nav-global a:focus,
